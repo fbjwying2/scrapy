@@ -1,4 +1,4 @@
-# 使用命令：
-cmd
-cd ./scrapy/news
-scrapy crawl foshan
+## 使用命令：
+#### cmd
+#### cd ./scrapy/news
+#### scrapy crawl foshan
